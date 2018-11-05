@@ -10,6 +10,8 @@ The objective of this repository is to summarize the study I did for deeply unde
 - **RMSProp**
 - **AdaDelta**
 - **Adam**
+- **AdaMax**
+- **NAdam**
 
 These implementations have been done using **numpy** and **autograd**.
 
@@ -26,11 +28,11 @@ In the following charts you can see how the implemented algorithms behave when a
 
 ![error_evolution](./img/errors.png)
 
-![animation_trajectories](./img/trajectories.gif)
+![animation_trajectories](./img/trajectories_improved.gif)
 
 ## Further work and contribution opportunities
 There are several ways of continuing this study.
-- Implement newer algorithms and variations of the existing ones (like *NAdam* and *AdaMax*)
+- Research and implement state-of-the-art optimization algorithms
 - Implement more objective functions and show which are the potential benefits and disadvantages of each of the algorithms in each objective function
 - Try to understand better why algorithms like *RMSProp* show an oscilation when they converge
 
