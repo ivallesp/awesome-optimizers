@@ -39,4 +39,4 @@ There are several ways of continuing this study.
 If you want to continue with it, please, consider sending a pull request, I'll be more than happy to merge your changes.
 
 ## License
-...
+This project has been licensed under MIT agreement. Please, read the `LICENSE` file for further details. Copyright (c) 2018 Iván Vallés Pérez
