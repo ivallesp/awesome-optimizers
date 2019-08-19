@@ -1,4 +1,4 @@
-# Deep Learning optimizers study
+# Awesome-optimizers - Deep Learning optimizers study and implementations in numpy
 
 ## Introduction and objectives
 The objective of this repository is to summarize the study I did for **deeply understanding the most common neural networks oprimizers**. In it, you will find implementations from scratch for the following gradient-based optimization algorithms.
